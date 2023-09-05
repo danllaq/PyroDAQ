@@ -85,7 +85,7 @@ After you have completed the prerequisites and set up the project, follow these 
     - Once the program is running, the GUI for PyroDAQ should appear
     - You can now connect you DAQ and use the GUI to interact with it for temperature sensing and other data tasks
 4. **Student's Guide**
-   - You can find more instructions and a guide throgh the program in the attached pdf "Student's Guide"
+   - You can find more instructions and a guide through the program in the attached pdf "Student's Guide"
 
 ## That's It! You're Set to Blaze a Trail with PyroDAQ 🐍🌡️
 
