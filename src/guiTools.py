@@ -43,14 +43,14 @@ DATA_ON_DEMAND = "On Demand"
 DATA_CUSTOM = "Finite Sampling"
 
 # -------- IMAGE PATHS ---------
-ICON_PATH = '/assets/icon_big.png'
-TOGGLE_ON_PATH = '/assets/switch_on.png'
-TOGGLE_OFF_PATH = '/assets/switch_off.png'
-ALARM_MIN_ON_PATH = '/assets/alarm_min_on.png'
-ALARM_MIN_OFF_PATH = '/assets/alarm_min_off.png'
-ALARM_MAX_ON_PATH = '/assets/alarm_max_on.png'
-ALARM_MAX_OFF_PATH = '/assets/alarm_max_off.png'
-ALARM_UNSET_PATH = '/assets/alarm_unset.png'
+ICON_PATH = 'assets/icon_big.png'
+TOGGLE_ON_PATH = 'assets/switch_on.png'
+TOGGLE_OFF_PATH = 'assets/switch_off.png'
+ALARM_MIN_ON_PATH = 'assets/alarm_min_on.png'
+ALARM_MIN_OFF_PATH = 'assets/alarm_min_off.png'
+ALARM_MAX_ON_PATH = 'assets/alarm_max_on.png'
+ALARM_MAX_OFF_PATH = 'assets/alarm_max_off.png'
+ALARM_UNSET_PATH = 'assets/alarm_unset.png'
 
 # -------- PARAMETERS ---------
 N_DECIMALS = 3
