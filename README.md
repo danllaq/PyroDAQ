@@ -50,7 +50,7 @@ Follow these steps to download and install the driver:
 1. From [PyroDAQ GitHub page](https://github.com/danllaq/PyroDAQ) download zip file.
 2. Extract the zip file to your prefered directory.
    
-### Creatong a virtual environment 🌐
+### Creating a virtual environment 🌐
 In order to isolate dependencies for this project, we're going to create a virtual environment. It's important to note that
 the project and dependencies are going to be inside the venv but *Python and pip **should not be** in the venv* ❗
 
