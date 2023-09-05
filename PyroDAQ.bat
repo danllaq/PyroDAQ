@@ -1,5 +1,5 @@
 @echo off
-tite PyroDAQ
+title PyroDAQ
 
 rem Activate the virtual environment
 call PyroDAQvenv\Scripts\activate
