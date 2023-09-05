@@ -1,5 +1,5 @@
 @echo off
-title Setup for PyroDAQ
+title PyroDAQ
 
 rem Creating virtual environment
 python -m venv PyroDAQvenv
