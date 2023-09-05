@@ -58,12 +58,13 @@ To quickly set up and configure this project, follow these steps:
 1. Copy the path of your project's directory.
 1. Open a command prompt and open the directory with the following command (substituting for your actual path):
 ```bash
-cd C:\Users\<user_name>\<folder>\PyroDAQ
+cd C:\Users\<user_name>\PyroDAQ-main
 ```
 3. Run the setup script:
 ```bash
 setup.bat
 ```
+4. You should now have a command prompt line that looks like this: ```(PyroDAQvenv) C:\Users\<user_name>\PyroDAQ-main>```
 
 ## Running the Program ▶️
 
