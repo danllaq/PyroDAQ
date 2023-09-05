@@ -64,20 +64,27 @@ cd C:\Users\<user_name>\PyroDAQ-main
 ```bash
 setup.bat
 ```
-4. You should now have a command prompt line that looks like this: ```(PyroDAQvenv) C:\Users\<user_name>\PyroDAQ-main>```
+4. Wait until the setup has finished, it might take a few seconds.
 
 ## Running the Program ▶️
 
 After you have completed the prerequisites and set up the project, follow these steps to run PyroDAQ:
 1. **Launch PyroDAQ:**
-   - From your project directory and with your already activated venv, run:
+   You have some options for running the program:
+   - In a command line, from your project directory, run:
      ```bash
+     PyarDAQ.bat
+     ```
+   - You can also double click on the file `PyroDAQ.bat`
+   - Or in a command line your project directory, run:
+     ```bash
+     PyroDAQvenv\Scripts\activate
      python main.py
      ```
-2. **Interact with the program**
+3. **Interact with the program**
     - Once the program is running, the GUI for PyroDAQ should appear
     - You can now connect you DAQ and use the GUI to interact with it for temperature sensing and other data tasks
-3. **Student's Guide**
+4. **Student's Guide**
    - You can find more instructions and a guide throgh the program in the attached pdf "Student's Guide"
 
 ## That's It! You're Set to Blaze a Trail with PyroDAQ 🐍🌡️
