@@ -24,7 +24,7 @@ pip --version
 ```
 If for any reason there's a problem refer to [pip documentation](https://pip.pypa.io/en/stable/installation/).
 
-## Required Driver Installation ⚙️
+### Driver Installation ⚙️
 
 To use PyroDAQ, you need to install the NI-DAQmx (version 2023 Q1). 
 
