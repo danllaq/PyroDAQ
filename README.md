@@ -20,12 +20,15 @@ pip --version
 If for any reason there's a problem refer to [pip documentation](https://pip.pypa.io/en/stable/installation/)
 
 ## Setting up the project
+### Downloading the project
+1. From [project's page](https://github.com/danllaq/PyroDAQ) download zip file
+2. Extract the zip file and save the project in your chosen directory
 ### Virtual Environment
 In order to isolate dependencies for this project, we're going to create a virtual environment. It's important to note that
 the project and dependencies are going to be inside the venv but *Python and pip **should not be** in the venv*
 
 To quickly set up and configure this project, follow these steps:
-1. Navigate to the project directory and copy its path
+1. Copy the path of your project's directory
 1. Open a command prompt and open the directory
 ```bash
 cd C:\Users\<user_name>\<folder>\PyroDAQ
