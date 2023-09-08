@@ -64,7 +64,7 @@ cd C:\Users\<user_name>\PyroDAQ-main
 ```bash
 setup.bat
 ```
-4. Wait until the setup has finished, it might take a few seconds.
+4. Wait until the setup has finished, this will be indicated with ```Setup completed!``` it might take a few moments.
 
 ## Running the Program ▶️
 
