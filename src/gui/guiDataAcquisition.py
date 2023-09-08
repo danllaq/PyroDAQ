@@ -185,7 +185,7 @@ def data_acquisition_window_behavior(niDAQ, window, fig, figure_canvas_agg):
                     [n_samples] = gt.check_if_valid_input(values, 0, '-N_SAMPLES_INPUT-')
                     if not min_frequency <= sample_rate <= max_frequency:
                         raise ValueError(f"Sample rate must be between"
-                                         f" {min_frequency.3f} and {max_frequency.3f} Sa/s."
+                                         f" {min_frequency:.3f} and {max_frequency:.3f} Sa/s."
                                          f"\nGot {sample_rate} instead.")
                     elif not 2 <= n_samples <= 10000:
                         raise ValueError(f"Number of samples must be between  2 and 10k.\n"
